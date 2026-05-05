@@ -188,21 +188,6 @@ The script supports:
 - Random seeds are exposed in the main scripts and should be fixed for reproducible comparisons.
 - Large generated files such as embeddings, result tables, and figures are intentionally excluded from version control by `.gitignore`.
 
-## Citation
-
-If you use this code, please cite the corresponding paper once the bibliographic information is finalized.
-
-Suggested placeholder:
-
-```bibtex
-@article{hypermetamda,
-  title   = {HyperMetaMDA: A Hypergraph-Driven Dual-Branch Attention Network for Microbe-Drug Association Prediction},
-  author  = {TBD},
-  journal = {TBD},
-  year    = {TBD}
-}
-```
-
 ## Contact
 
 Please update this section with the corresponding author or project maintainer information before publishing the repository.
